@@ -14,7 +14,7 @@ VERSION
 Pre-built executables for Linux and Mac are made available at the [releases page]( https://github.com/seqan/slimm/releases/latest).
 
 #### Source code
-You can build SLIMM from its source. Instruction on how to build from source can be found at the [slimm wiki] (https://github.com/seqan/slimm/wiki) 
+You can build SLIMM from its source. Instruction on how to build from source can be found at the [slimm wiki]( https://github.com/seqan/slimm/wiki) 
 
 #### Cite us
 
