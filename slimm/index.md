@@ -1,6 +1,6 @@
 ## SLIMM - **S**pecies **L**evel **I**dentification of **M**icrobes from **M**etagenomes
 
-SLIMM is a taxonomic identification tool that investigates which microorganisms are present in a sequenced sample. SLIMM requires a BAM/SAM alignment file as an input. One can use a read mapper of choice to map raw reads obtained from a sequencing machine to obtain the BAM/SAM file required as input for SLIMM.
+SLIMM is a taxonomic identification tool that investigates which microorganisms are present in a sequenced sample. SLIMM requires a BAM/SAM alignment file as an input. One can use a read mapper of choice to map raw sequencing reads to obtain the BAM/SAM alignment file required as input for SLIMM.
 
 VERSION
 
