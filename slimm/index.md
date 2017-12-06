@@ -4,7 +4,7 @@ SLIMM is a taxonomic identification tool that investigates which microorganisms 
 
 VERSION
 
-    * SLIMM version: 0.2.1
+    * SLIMM version: 0.2.2
     * Last update: January 2017
     
 
